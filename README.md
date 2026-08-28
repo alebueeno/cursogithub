@@ -1,2 +1,3 @@
 # cursogithub
-repositorio criado para o mini curso de git/github da faculdade UNIRP
+-- Alteracao local --
+repositorio criado para o mini curso de git/github da faculdade UNIRP.
