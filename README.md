@@ -1,2 +1,2 @@
 # cursogithub
-repositorio criado para o mini curso de git/github
+repositorio criado para o mini curso de git/github da faculdade UNIRP
